@@ -46,11 +46,8 @@ files:
     encrypted_text: +P35fUi3ClXVuFQP/w26K9CbMVBVXO4BwxKOmFdmR3mEBKYDbmxeBslqVs1XWbPUWHLAYx7EOWNXylk+wNZQFSd/WIkHlugI34PZX6MNIVc95C+EgB98GDFQ0nfaIN2k23frfHLSitb9Eozq0p6AHUUuVuSSKDReoq0G02Z/lJgfOo+LxZstmpTmrdOjudYaGcXzALmMESmZc8ZeVtqJiyzMUPjFh3GnpO1CPVkybjuLn3HxaK/PMd6qTth2wZO6dXqdxO/rhGhlidtroC49TF59iUaz4ng0QMkgvKz8jXzUA/+QrA4rwNkgfgipDTwxxLHRLExH1eK1w7oGJbGUQ3xKFQ1xwgLkZleQ6eMKzm3lR4SPxMCLtHSdRFY1gAN7sV9xfGCpwFqci4jrOk1IxyeSr9ck6cjVTpmV4g/B64UdGqQBvOdmbXwUu6zIWDUdxa/DQxPHbzam6kRRAO0LkaiMSciKvhSxKy4gi32bvR/IYvNFF5wSdJOKWKfdlDn+h6/ZI1a5cXajuyPPOJ7zrabZi6KM+LxZMKPR3qm1e3efkzuGt5MTEqMFR4l6orTE+XjPZx3x7K3qkWbFXdGV2XHIfeU3xdIzx9/GntHfqrO3jCy6vaNjgX+AEwVdZDYiCU8njkVCUpWC38OsdyG22Dr+zDKVTAgAwUAf5UQjZMqPbQ2BZoOz0CyCyiQYLPmUTbpr1YR4JI8JAdFGjtp2gdlqmmZRuZQFSbpIAiXLgO3AyRZlZjG5sZPUA3JvptGA
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/Last+push/Finish+the+app
-status: Failed
+status: Solved
 feedback:
-  message: "For pattern:\n X\n/ \\\n\\ /\n X\n, generatorName=canvas, width=1, and\
-    \ height=1 the function applyGenerator should return \n X \n/ \\\n\\ /\n X \n"
-  time: "Thu, 22 Feb 2024 05:48:07 UTC"
-  expected: " X \r\n/ \\\r\n\\ /\r\n X \r\n"
-  actual: " X \n/ \\\n\\ /\n X \r\n"
+  message: Congratulations!
+  time: "Thu, 22 Feb 2024 09:50:07 UTC"
 record: -1
